@@ -18,6 +18,7 @@ This project uses historical NFL Combine data to build a predictive model for 40
   - The original data was scraped and cleaned from publicly available NFL data on https://www.pro-football-reference.com/
 - `NFL Combine Project.pdf`: Final written report summarizing methodology, findings, and model insights
 - `NFL Combine Project - Charts and Visualizations.pdf`: Collection of residual plots, prediction accuracy charts, and other visuals
+- `NFL Combine Slides - MS Practicum.pdf`: Slide deck version of the project, created for formal presentation  
 - `README.md`: Summary and documentation for the project
 
 ## Key Features Used

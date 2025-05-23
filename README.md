@@ -10,7 +10,7 @@ This project uses historical NFL Combine data to build a predictive model for 40
   - R² = 0.855
   - RMSE ≈ 0.11 seconds
   - MAE ≈ 0.088 seconds
-- Tools Used: R, dplyr, randomForest, ggplot2
+- Tools Used: R, dplyr, randomForest, Tableau
 
 ## Files Included
 - `combine.R`: Full R script including data cleaning, feature engineering, modeling, and visualizations

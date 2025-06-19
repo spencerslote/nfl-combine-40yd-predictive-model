@@ -21,7 +21,7 @@ This project uses historical NFL Combine data to build a predictive model for 40
 - `NFL Combine Slides - MS Practicum.pdf`: Slide deck version of the project, created for formal presentation  
 - `README.md`: Summary and documentation for the project
 
-## Key Features Used
+## Predictors
 - Physical traits: height, weight, position
 - Combine drills: bench press, vertical jump, shuttle run, broad jump
 - Metadata: year, position group
